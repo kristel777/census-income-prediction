@@ -10,21 +10,19 @@ The project follows the full **machine learning life cycle**:
 - Model training and evaluation  
 - Improving model performance  
 
----
+
 
 ## Dataset
 - **Source**: 1994 U.S. Census dataset (`censusData.csv`)  
 - **Target Variable**: `income` (`<=50K` or `>50K`)  
 - **Features**: Age, Workclass, Education, Marital Status, Occupation, Relationship, Race, Sex, Hours per week, Native country, etc.  
 
----
 
 ## Methods & Tools
 - **Language**: Python  
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn  
 - **Model**: Logistic Regression  
 
----
 
 ##  Results
 - Logistic Regression was able to classify income groups with good accuracy.  
